@@ -12,5 +12,6 @@ The following KPIs I used for getting Insights:
 3. Current Job Title Before doing MBA.
 4. Students doing MBA according to thier Gender.
 5. Students doing MBA according to thier undergraduate majors.
-   And more KPIs used for Analysis Trend of MBA.
+
+And more KPIs used for Analysis Trend of MBA.
 
